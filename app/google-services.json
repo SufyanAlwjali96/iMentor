@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "451110391876",
+    "firebase_url": "https://imentornew.firebaseio.com",
+    "project_id": "imentornew",
+    "storage_bucket": "imentornew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451110391876:android:f157dc94fb0d8b19",
+        "android_client_info": {
+          "package_name": "com.tarmiz.imentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451110391876-e282u0334iij9a8ad35i086m16u0682e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tarmiz.imentor",
+            "certificate_hash": "4f63c38f8e20dd3f6f791afc38a514d8ba43b4a6"
+          }
+        },
+        {
+          "client_id": "451110391876-b26h8an3741cg3ub08kbkb37rp4pvgnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6vpIe1Zocdv6016RywXVWhyqCc90RZhA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451110391876-b26h8an3741cg3ub08kbkb37rp4pvgnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">iMentor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_menu_dashboard">الصفحة الرئيسية</string>
+    <string name="nav_menu_schools">المدارس</string>
+    <string name="nav_menu_universities">الكليات و الجامعات</string>
+    <string name="nav_menu_centers">مراكز التدريب و التعليم</string>
+    <string name="nav_menu_teachers">المعلمين</string>
+    <string name="nav_menu_special">مراكز ذوي الاحتياجات</string>
+    <string name="nav_menu_share">مشاركة التطبيق</string>
+    <string name="nav_menu_aboutus">عن التـطبيق</string>
+    <string name="nav_menu_contactus">تواصل معنا</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name">الجهة المعلنة</string>
+    <string name="time">التوقيت</string>
+    <string name="rodaa">الروضة</string>
+    <string name="ebtedaee">الابتدائي</string>
+    <string name="edadee">الاعدادي</string>
+    <string name="thanawia">الثانوي</string>
+    <string name="jam3a">الجامعة</string>
+    <string name="description">Just Image!</string>
+    <string name="action_search">ابحث</string>
+    <string name="action_back">الرجوع</string>
+    <string name="google_maps_key">AIzaSyAIZGWldPzcnEqKKaFJllbuFu9ilSJTMTM</string>
+    <string name="title_activity_about">About</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="ga_trackingId" translatable="false">UA-127130843-1</string>
+
+
+
+
+</resources>

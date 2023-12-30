@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/dashboard"
+            android:icon="@drawable/ic_menu_dashboard"
+            android:title="@string/nav_menu_dashboard" />
+
+        <item
+            android:id="@+id/schools"
+            android:icon="@drawable/ic_menu_schools"
+            android:title="@string/nav_menu_schools" />
+
+        <item
+            android:id="@+id/universities"
+            android:icon="@drawable/ic_menu_university"
+            android:title="@string/nav_menu_universities" />
+
+        <item
+            android:id="@+id/centers"
+            android:icon="@drawable/ic_centers"
+            android:title="@string/nav_menu_centers" />
+
+        <item
+            android:id="@+id/teachers"
+            android:icon="@drawable/ic_menu_teachers"
+            android:title="@string/nav_menu_teachers" />
+
+        <item
+            android:id="@+id/special"
+            android:icon="@drawable/ic_menu_special_needs"
+            android:title="@string/nav_menu_special" />
+
+    </group>
+
+    <item tools:ignore="MenuTitle">
+        <menu>
+            <item
+                android:id="@+id/share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_menu_share" />
+
+            <item
+                android:id="@+id/about"
+                android:icon="@drawable/ic_menu_info"
+                android:title="@string/nav_menu_aboutus" />
+
+
+        </menu>
+    </item>
+
+</menu>
