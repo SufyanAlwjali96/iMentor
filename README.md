@@ -11,4 +11,4 @@ iMentor is an app bridging students, universities, and educational centers in Be
 ![screen5](./screenshots/unnamed5.png)
 ![screen6](./screenshots/unname6.png)
 ![screen7](./screenshots/unnamed7.png)
-![screen8](./screenshots/unnamed8.png)
+![screen8](./screenshots/unnamed 8.png)
