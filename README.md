@@ -1,6 +1,7 @@
-
 # iMentor Project
-Discover a world of educational opportunities with iMentor.
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+                Discover a world of educational opportunities with iMentor.
 ## Brief description 
 iMentor is an app bridging students, universities, and educational centers in Benghazi, Libya. Whether online or in-person, access a myriad of courses and detailed information on schools, universities, private teachers, and special needs centers. From addresses to contacts, iMentor ensures users have comprehensive insights for informed decisions. Tailored for students, universities, language centers, and private teachers, iMentor simplifies the educational landscape. Unlock access to vital information, empowering users to navigate and connect effortlessly with diverse educational resources.
 ### Screenshots of the App 
@@ -12,3 +13,9 @@ iMentor is an app bridging students, universities, and educational centers in Be
 ![screen6](./screenshots/unname6.png)
 ![screen7](./screenshots/unnamed7.png)
 ![screen8](./screenshots/unnamed8.png)
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at sofyanalojaly@gmail.com
+
