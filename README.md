@@ -1,5 +1,5 @@
 # iMentor Project
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](./screenshots/Unknown.png)
 
                 Discover a world of educational opportunities with iMentor.
 ## Brief description 
