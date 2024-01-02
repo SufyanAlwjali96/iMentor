@@ -1,5 +1,5 @@
 # iMentor Project
-![Logo](./screenshots/Unknown.png)
+![Logo](./screenshots/ic_launcher_round.png)
 
                 Discover a world of educational opportunities with iMentor.
 ## Brief description 
